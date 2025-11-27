@@ -1,8 +1,8 @@
 ## Godot-cpp template
-This is a very basic template for Godot 4.4 for C++.
+This is a very basic template for Godot 4.5 for C++.
 
 ## Contents
-- godot-cpp (-b 4.4) repo as a sub-module
+- godot-cpp (-b 4.5) repo as a sub-module
 - Empty godot project
 - include directory for project headers
 - src directory for the code (has a basic register_types.cpp for binding classes)

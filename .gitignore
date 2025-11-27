@@ -3,6 +3,8 @@
 *.dll
 *.lib
 *.exp
+*.os
+*.so
 
 /.cache/
 /compile_commands.json
